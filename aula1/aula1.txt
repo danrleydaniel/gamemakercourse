@@ -1,0 +1,7 @@
+Nesta aula, fiz:
+
+- O background
+- O personagem principal
+- As paredes
+- A arma
+- As balas
