@@ -1,7 +1,0 @@
-Nessa aula, eu fiz:
-
-- Os inimigos
-- Criei o código para eles levarem dano
-- Fiz eles brilharem ao levarem dano
-- Fiz eles morrerem (no jogo, gente, não pensem besteira)
-- Adicionei os tiles
