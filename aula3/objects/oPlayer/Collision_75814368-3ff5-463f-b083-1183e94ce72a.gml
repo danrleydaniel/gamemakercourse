@@ -1,0 +1,3 @@
+//QUANDO COLIDIR COM O PORTAL, O GAME REINICIA//
+
+game_restart();
