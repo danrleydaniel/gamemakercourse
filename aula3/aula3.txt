@@ -1,0 +1,4 @@
+Nessa aula, eu fiz:
+
+- O player morre quando o inimigo atinge ele
+- Coloquei um portal no final da fase
